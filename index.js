@@ -2,4 +2,5 @@
 Function happyHolidays() {console.log("Happy Holidays!") 
 Function happyHolidaysTo(name) 
 {return `Happy holidays, ${name}`}
-Function happyHolidayTo(holiday,name)
+Function happyHolidayTo(holiday, name) {return `${holiday}, ${name}` }
+Function holidayCountdown(holiday,days) { return 
