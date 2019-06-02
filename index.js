@@ -1,1 +1,1 @@
-Function happyHolidays() { return "Happy holidays!" }
+Function happyHolidays() { return Happy holidays! }
