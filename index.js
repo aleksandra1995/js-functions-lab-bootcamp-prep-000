@@ -1,1 +1,1 @@
-Function happyHolidays() {console.log("Happy holidays!") }
+Function happyHolidays() { return "Happy holidays!" }
