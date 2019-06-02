@@ -1,5 +1,5 @@
 // write your code below!
-Function happyHolidays() {console.log("Happy Holidays!") 
+Function happyHolidays() { return Happy Holidays! }
 Function happyHolidaysTo(name) 
 {return `Happy holidays, ${name}`}
 Function happyHolidayTo(holiday, name) {return `${holiday}, ${name}` }
